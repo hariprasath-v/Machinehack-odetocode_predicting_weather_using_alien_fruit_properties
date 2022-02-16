@@ -24,8 +24,9 @@
         * klib
         * Numpy
         * Matplotlib
-
-* odetocode_predicting_weather_using_alien_fruit_properties_EDA.ipynb
+    ### Basic Exploratory Data Analysis
+    
+* odetocode_predicting_weather_using_alien_fruit_properties_Model.ipynb
     ### Packages Used,
         * Sklearn
         * Pandas
@@ -34,11 +35,10 @@
         * catboost
         * shap
         * optuna
-              
-     ### Basic Exploratory Data Analysis
+     ### Data Pre-processing         
      ### Created Catboost classifier model and tune the hyperparameters with the optuna framework.
      ### Model interpretation with shap  
-     ### Model Comparison
+
      
 
 
